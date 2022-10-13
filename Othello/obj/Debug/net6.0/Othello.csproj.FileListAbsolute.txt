@@ -1,0 +1,12 @@
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\bin\Debug\net6.0\Othello.deps.json
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\bin\Debug\net6.0\Othello.dll
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\bin\Debug\net6.0\Othello.pdb
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\Othello.csproj.AssemblyReference.cache
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\Othello.AssemblyInfoInputs.cache
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\Othello.AssemblyInfo.cs
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\Othello.csproj.CoreCompileInputs.cache
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\Othello.dll
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\refint\Othello.dll
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\Othello.pdb
+C:\Users\akaim\Desktop\osero\OthelloGUI\Othelloblazor\Othello\obj\Debug\net6.0\ref\Othello.dll
