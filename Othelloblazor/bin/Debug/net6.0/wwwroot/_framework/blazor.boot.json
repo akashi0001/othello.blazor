@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-TYLzIm125RbnX9+RAPqJnwZhd6CnQpJcrjiMpJfZ720=",
       "netstandard.dll": "sha256-HhuK9zDkd1N7hODAEiNJ11VF8T54IgrM6hZfLHmHdqM=",
       "System.Private.CoreLib.dll": "sha256-dXaTqyg1PnXPiSwywpic1PVrd7P8Vb5tN0i0\/urdt3E=",
-      "Othello.dll": "sha256-JXzjpRYDEHKDzoIrXN59oSzLsoWWI1yckYODnxxGSzY=",
-      "Othelloblazor.dll": "sha256-UDgiwvMvWpDOGDrNNfpSxxr1itO1tG7IIomSSNuwr8w="
+      "Othello.dll": "sha256-wfY618\/ySL8FRq8VIQw7GThF1+qV9JpI49CHFIUzoNI=",
+      "Othelloblazor.dll": "sha256-lYdimfSslnWUbfdmbMhS8dWwl+VUF+4XUWOY594TOns="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Othello.pdb": "sha256-+bdMppiYpNQLlcvJ0bz8X4xwhdJ8kI8bCqeuMWrJKwA=",
-      "Othelloblazor.pdb": "sha256-O734lPoJNqAHZhftSLMaOlSUp0ryDEy4QTm\/uC0nrCE="
+      "Othello.pdb": "sha256-u+OiCDuntRiKZwBF0q4bPNCwmwu9oJP1yJ\/eTUzMaHE=",
+      "Othelloblazor.pdb": "sha256-i5V7CXfCxb21NAL1d5jSLCZj6ydthVDPOt4F7MjZHfg="
     },
     "runtime": {
       "dotnet.6.0.8.ziokiyg842.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",

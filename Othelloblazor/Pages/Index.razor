@@ -4,39 +4,28 @@
 <PageTitle>Index</PageTitle>
 
 <h1>Hello, world!</h1>
-
 <img src="board.png" alt="">
 <p role="status">Current count: @currentCount</p>
-@for(int i = 0;i<8;i++)
+@for(int i = 1;i<9;i++)
 {
-    for(int l = 0;l<8;l++){
+    for(int l = 1;l<9;l++){
         int j=0;
-        j = i * 8 + l;
-        string image = imageSource;
+        j = i * 10 + l;
 
-        <div class="cell" @onclick="@(_ => ShowImage(j))">
+        <div class="cell" @onclick="@(_ => Othello.click(j))">
             <img src="@Board.board[j]" alt="" width="75" height="75">
         </div>
     }
     <br>
 }
+<button class="reset" @onclick="@(_ => Othello.reset())"></button>
 
 
 <SurveyPrompt Title="How is Blazor working for you?" />
 
 @code {
     private int currentCount = 0;
-    private string imageSource;
-    private void ShowImage(int x)
-    {
-        currentCount = x;
-        int c;
-        c = Put.Putcheck(x, Board.board[x]);
-        if (c == 1) { Board.board[x] = "black.png"; }
-        else if (Board.board[x] == "black.png") { Board.board[x] = "white.png"; }
-        else if (Board.board[x] == "white.png") { Board.board[x] = "black.png"; }
-    }
-    private string[] board = Enumerable.Repeat("black.png", 64).ToArray();
+
 
 
     private void IncrementCount(int x)
